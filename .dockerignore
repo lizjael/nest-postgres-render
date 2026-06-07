@@ -1,0 +1,6 @@
+#No queremos que ignore, lo que no copie el contenedor
+node_modules
+dist
+.env
+.git
+*.md
